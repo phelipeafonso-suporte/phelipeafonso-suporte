@@ -12,4 +12,4 @@
 </div>
   <hr>
 
-  ![Snake animation](https://github.com/phelipeafonso/phelipeafonso-suporte/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/phelipeafonso-suporte/phelipeafonso-suporte/blob/output/github-contribution-grid-snake.svg)
